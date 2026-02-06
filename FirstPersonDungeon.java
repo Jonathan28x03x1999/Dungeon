@@ -5,7 +5,7 @@ public class FirstPersonDungeon {
     static Scanner scanner = new Scanner(System.in);
     static Random random = new Random();
     
-    static int hp = 20;
+    static int hp = 40;
     static int gold = 0;
 
     public static void main(String[] args) {
